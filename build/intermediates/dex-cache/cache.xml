@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hyeongjukim/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/hyeongjukim/Desktop/hackaton/WatchHttp/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_6ead428bf737cf778a18385d5b4599520249abfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyeongjukim/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/hyeongjukim/Desktop/hackaton/WatchHttp/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_35b6b47ee78af26b73c643389874def113626533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyeongjukim/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/hyeongjukim/Desktop/hackaton/WatchHttp/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_763e4064c941e4f79a4c877002111220e5484268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyeongjukim/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/hyeongjukim/Desktop/hackaton/WatchHttp/app/build/intermediates/pre-dexed/debug/gson-2.7_b8a4904bd9a5d6e67da323172e9ff11c1c686f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyeongjukim/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/hyeongjukim/Desktop/hackaton/WatchHttp/app/build/intermediates/pre-dexed/debug/okio-1.8.0_a0325735b8029dd9c8bb779ddf3d59281b6f43d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyeongjukim/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/hyeongjukim/Desktop/hackaton/WatchHttp/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_2e96e0901e729889f44383f2fb65856e223b0694.jar" />
+    </item>
+
+</items>
